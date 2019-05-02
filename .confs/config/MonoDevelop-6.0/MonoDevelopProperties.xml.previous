@@ -1,0 +1,28 @@
+﻿<MonoDevelopProperties version="2.0">
+  <Property key="FontProperties" />
+  <Property key="Monodevelop.TaskListTokens" value="FIXME:2;TODO:1;HACK:1;UNDONE:0" />
+  <Property key="SharpDevelop.Workbench.WorkbenchMemento">
+    <Property key="windowState" value="Maximized" />
+    <Property key="fullscreen" value="False" />
+    <Property key="bounds" value="50, 50, 1820, 1050" />
+  </Property>
+  <Property key="Monodevelop.CommentTasksColumns" value="TRUE;TRUE;TRUE;TRUE" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.CheckForUpdates" value="True" />
+  <Property key="PackageManagementSettings" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.LastCheck" value="03/06/2017 13:20:01" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateSpanValue" value="1" />
+  <Property key="MonoDevelop.GtkCore.ShowNonContainerWarning" value="True" />
+  <Property key="MonoDevelop.Core.Gui.CurrentWorkbenchLayout" value="Solution" />
+  <Property key="FavoriteRecentFiles">
+    <ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  </Property>
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.MonoDevelop.UnitTesting.TestPad" value="1" />
+  <Property key="MonoDevelop.Ide.AddinUpdater.UpdateSpanUnit" value="Day" />
+  <Property key="MonoDevelop.Ide.ExtensibleTreeView.Zoom.ProjectPad" value="1" />
+  <Property key="WelcomePage.UpdateFromInternet" value="True" />
+  <Property key="MonoDevelop.Core.FirstRun" value="True" />
+  <Property key="ToolboxIsInCompactMode" value="False" />
+  <Property key="Monodevelop.ErrorListColumns" value="TRUE;TRUE;TRUE;TRUE;TRUE;TRUE;TRUE;TRUE" />
+  <Property key="MonoDevelop.TextEditor.Document.Document.DefaultDocumentAggregatorProperties" />
+  <Property key="Monodevelop.TaskList.ActiveView" value="MonoDevelop.Ide.Tasks.CommentTasksView" />
+</MonoDevelopProperties>

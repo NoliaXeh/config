@@ -1,0 +1,165 @@
+{
+   "checksum": "35f3f48dbe448609b1b8e0b8fdb7ba78",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13194386107385221",
+            "id": "27",
+            "meta_info": {
+               "last_visited_desktop": "13201096272788785"
+            },
+            "name": "Discord",
+            "type": "url",
+            "url": "https://discordapp.com/channels/@me"
+         }, {
+            "date_added": "13198349893384454",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13198418026377506"
+            },
+            "name": "Unicode Character Categories",
+            "type": "url",
+            "url": "https://www.compart.com/en/unicode/category"
+         }, {
+            "date_added": "13194439368391160",
+            "id": "29",
+            "meta_info": {
+               "last_visited_desktop": "13200843949483778"
+            },
+            "name": "Courrier - thibault marchal - Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/"
+         }, {
+            "date_added": "13180966623845479",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13201098119186717"
+            },
+            "name": "Intranet YAKA",
+            "type": "url",
+            "url": "https://intra.assistants.epita.fr/"
+         }, {
+            "date_added": "13181080080568726",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13200512676967614"
+            },
+            "name": "cisco - plug.dj",
+            "type": "url",
+            "url": "https://plug.dj/cisco/"
+         }, {
+            "date_added": "13181734563906014",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13196879206458911"
+            },
+            "name": "test_img.bmp (1920×1200)",
+            "type": "url",
+            "url": "file:///home/thibault.marchal/afs/myscripts/custom_lock/test_img.bmp"
+         }, {
+            "date_added": "13181918995791096",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13188508037940931"
+            },
+            "name": "cisco-rules | Etherpad.fr",
+            "type": "url",
+            "url": "https://etherpad.fr/p/cisco-rules"
+         }, {
+            "date_added": "13182177357564757",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13182974098638225"
+            },
+            "name": "DJ Ango",
+            "type": "url",
+            "url": "http://cisco.bfor.fr/"
+         }, {
+            "date_added": "13182247860693730",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13182252529884815"
+            },
+            "name": "Tutoriel : Personnalisez votre shell",
+            "type": "url",
+            "url": "file:///home/thibault.marchal/afs/piscine/td15-piscine/ersonnalisez-votre-shell.html"
+         }, {
+            "date_added": "13182252033314615",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13182252033316458"
+            },
+            "name": "bash - Terminal prompt not wrapping correctly - Unix & Linux Stack Exchange",
+            "type": "url",
+            "url": "https://unix.stackexchange.com/questions/105958/terminal-prompt-not-wrapping-correctly"
+         }, {
+            "date_added": "13185167189034343",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13185167189034704"
+            },
+            "name": "\u003Cfloat.h>",
+            "type": "url",
+            "url": "http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/float.h.html"
+         }, {
+            "date_added": "13195154149537601",
+            "id": "31",
+            "meta_info": {
+               "last_visited_desktop": "13195908541725393"
+            },
+            "name": "Evolutek Slack",
+            "type": "url",
+            "url": "https://evolutekionis.slack.com/messages"
+         }, {
+            "date_added": "13197408168022391",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13197408168024077"
+            },
+            "name": "string",
+            "type": "url",
+            "url": "https://docs.python.org/fr/3/tutorial/datastructures.html"
+         }, {
+            "date_added": "13197465478160038",
+            "id": "35",
+            "meta_info": {
+               "last_visited_desktop": "13197465478162270"
+            },
+            "name": "sound",
+            "type": "url",
+            "url": "https://docs.python.org/3/py-modindex.html"
+         }, {
+            "date_added": "13197576068147398",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13197660198844675"
+            },
+            "name": "exe",
+            "type": "url",
+            "url": "https://docs.python.org/3/library/curses.html#module-curses"
+         } ],
+         "date_added": "13150392738160818",
+         "date_modified": "13198349893384454",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13150392738160821",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13150392738160822",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

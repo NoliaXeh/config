@@ -1,0 +1,9 @@
+2018/10/04-10:45:39.690 21775 Reusing MANIFEST /home/thibault.marchal/.config/chromium/Default/IndexedDB/https_cialu.net_0.indexeddb.leveldb/MANIFEST-000001
+2018/10/04-10:45:40.114 22147 Current memtable full; waiting...
+2018/10/04-10:45:40.114 22151 Level-0 table #5: started
+2018/10/04-10:45:40.116 22151 Level-0 table #5: 430 bytes OK
+2018/10/04-10:45:40.116 22151 Delete type=0 #3
+2018/10/04-10:45:40.181 22151 Level-0 table #7: started
+2018/10/04-10:45:40.181 22151 Level-0 table #7: 0 bytes OK
+2018/10/04-10:45:40.181 22151 Delete type=0 #4
+2018/10/04-10:45:40.182 22151 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

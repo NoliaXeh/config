@@ -1,0 +1,48 @@
+2019/05/02-14:00:39.961 2470 Reusing MANIFEST /home/thibault.marchal/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/05/02-14:00:39.962 2470 Recovering log #4543
+2019/05/02-14:00:39.995 2470 Level-0 table #4546: started
+2019/05/02-14:00:41.103 2470 Level-0 table #4546: 4015436 bytes OK
+2019/05/02-14:00:41.139 2470 Delete type=0 #4543
+2019/05/02-14:00:41.145 25cb Compacting 4@0 + 2@1 files
+2019/05/02-14:00:41.673 25cb Generated table #4548@0: 1 keys, 4015159 bytes
+2019/05/02-14:00:41.675 25cb Generated table #4549@0: 3 keys, 403 bytes
+2019/05/02-14:00:41.675 25cb Compacted 4@0 + 2@1 files => 4015562 bytes
+2019/05/02-14:00:41.700 25cb compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/05/02-14:00:41.700 25cb Delete type=2 #4540
+2019/05/02-14:00:41.701 25cb Delete type=2 #4546
+2019/05/02-14:00:41.783 25cb Delete type=2 #4542
+2019/05/02-14:00:41.785 25cb Delete type=2 #4544
+2019/05/02-14:00:41.788 25cb Delete type=2 #4538
+2019/05/02-14:00:41.790 25cb Delete type=2 #4539
+2019/05/02-14:01:42.841 25cb Level-0 table #4551: started
+2019/05/02-14:01:44.122 25cb Level-0 table #4551: 4015154 bytes OK
+2019/05/02-14:01:44.150 25cb Delete type=0 #4547
+2019/05/02-14:08:05.076 25cb Level-0 table #4553: started
+2019/05/02-14:08:07.770 25cb Level-0 table #4553: 4015430 bytes OK
+2019/05/02-14:08:07.799 25cb Delete type=0 #4550
+2019/05/02-15:01:42.063 25cb Level-0 table #4555: started
+2019/05/02-15:01:42.881 25cb Level-0 table #4555: 4015417 bytes OK
+2019/05/02-15:01:42.906 25cb Delete type=0 #4552
+2019/05/02-15:20:43.916 25cb Level-0 table #4557: started
+2019/05/02-15:20:44.686 25cb Level-0 table #4557: 4015432 bytes OK
+2019/05/02-15:20:44.714 25cb Delete type=0 #4554
+2019/05/02-15:20:44.838 25cb Compacting 4@0 + 2@1 files
+2019/05/02-15:20:46.454 25cb Generated table #4558@0: 1 keys, 4015154 bytes
+2019/05/02-15:20:46.458 25cb Generated table #4559@0: 3 keys, 404 bytes
+2019/05/02-15:20:46.458 25cb Compacted 4@0 + 2@1 files => 4015558 bytes
+2019/05/02-15:20:46.484 25cb compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/05/02-15:20:46.485 25cb Delete type=2 #4548
+2019/05/02-15:20:46.488 25cb Delete type=2 #4551
+2019/05/02-15:20:46.491 25cb Delete type=2 #4553
+2019/05/02-15:20:46.494 25cb Delete type=2 #4555
+2019/05/02-15:20:46.496 25cb Delete type=2 #4549
+2019/05/02-15:20:46.497 25cb Delete type=2 #4557
+2019/05/02-15:40:06.945 25cb Level-0 table #4561: started
+2019/05/02-15:40:07.951 25cb Level-0 table #4561: 4016444 bytes OK
+2019/05/02-15:40:07.979 25cb Delete type=0 #4556
+2019/05/02-16:01:41.615 25cb Level-0 table #4563: started
+2019/05/02-16:01:42.100 25cb Level-0 table #4563: 4015459 bytes OK
+2019/05/02-16:01:42.124 25cb Delete type=0 #4560
+2019/05/02-16:06:01.339 25cb Level-0 table #4565: started
+2019/05/02-16:06:01.793 25cb Level-0 table #4565: 4015442 bytes OK
+2019/05/02-16:06:01.819 25cb Delete type=0 #4562

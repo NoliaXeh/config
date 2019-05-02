@@ -1,0 +1,26 @@
+2019/05/02-12:51:12.901 1f28 Reusing MANIFEST /home/thibault.marchal/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/05/02-12:51:12.904 1f28 Recovering log #4532
+2019/05/02-12:51:12.915 1f28 Reusing old log /home/thibault.marchal/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/004532.log 
+2019/05/02-12:52:15.994 2195 Level-0 table #4536: started
+2019/05/02-12:52:17.116 2195 Level-0 table #4536: 4011571 bytes OK
+2019/05/02-12:52:17.141 2195 Delete type=0 #4532
+2019/05/02-12:52:17.263 2195 Compacting 4@0 + 2@1 files
+2019/05/02-12:52:20.883 2195 Generated table #4538@0: 1 keys, 4011047 bytes
+2019/05/02-12:52:20.883 2195 Level-0 table #4539: started
+2019/05/02-12:52:22.721 2195 Level-0 table #4539: 4012826 bytes OK
+2019/05/02-12:52:22.759 2195 Delete type=0 #4535
+2019/05/02-12:52:22.864 2195 Generated table #4540@0: 3 keys, 405 bytes
+2019/05/02-12:52:22.865 2195 Compacted 4@0 + 2@1 files => 4011452 bytes
+2019/05/02-12:52:22.895 2195 compacted to: files[ 1 2 1 0 0 0 0 ]
+2019/05/02-12:52:22.895 2195 Delete type=2 #4526
+2019/05/02-12:52:22.896 2195 Delete type=2 #4529
+2019/05/02-12:52:22.896 2195 Delete type=2 #4531
+2019/05/02-12:52:22.897 2195 Delete type=2 #4533
+2019/05/02-12:52:22.898 2195 Delete type=2 #4536
+2019/05/02-12:52:22.951 2195 Delete type=2 #4527
+2019/05/02-13:25:47.263 2195 Level-0 table #4542: started
+2019/05/02-13:25:49.433 2195 Level-0 table #4542: 4015078 bytes OK
+2019/05/02-13:25:50.142 2195 Delete type=0 #4537
+2019/05/02-13:52:16.116 2195 Level-0 table #4544: started
+2019/05/02-13:52:17.691 2195 Level-0 table #4544: 4015167 bytes OK
+2019/05/02-13:52:17.720 2195 Delete type=0 #4541
