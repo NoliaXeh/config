@@ -1,0 +1,64 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="d2">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>yaka</groupId>
+            <artifactId>d2</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <directory>/home/thibault.marchal/afs/IdeaProjects/d2</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogdGhpYmF1bHQubWFyY2hhbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxMC4wLjINCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="d2" />
+          <entry key="build.directory" value="/home/thibault.marchal/afs/IdeaProjects/d2/target" />
+          <entry key="build.finalName" value="d2-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="/home/thibault.marchal/afs/IdeaProjects/d2/target/classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="/home/thibault.marchal/afs/IdeaProjects/d2/src/main/scripts" />
+          <entry key="build.sourceDirectory" value="/home/thibault.marchal/afs/IdeaProjects/d2/src/main/java" />
+          <entry key="build.testOutputDirectory" value="/home/thibault.marchal/afs/IdeaProjects/d2/target/test-classes" />
+          <entry key="build.testSourceDirectory" value="/home/thibault.marchal/afs/IdeaProjects/d2/src/test/java" />
+          <entry key="groupId" value="yaka" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="pomFile" value="/home/thibault.marchal/afs/IdeaProjects/d2/pom.xml" />
+          <entry key="reporting.outputDirectory" value="/home/thibault.marchal/afs/IdeaProjects/d2/target/site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="/usr/lib/jvm/java-10-openjdk" />
+          <entry key="java.version" value="java version &quot;10.0.2&quot;" />
+          <entry key="settings.localRepository" value="/home/thibault.marchal/.m2/repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>/home/thibault.marchal/afs/IdeaProjects/d2/src/main/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>/home/thibault.marchal/afs/IdeaProjects/d2/src/test/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

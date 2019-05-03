@@ -1,0 +1,64 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="254" y="162" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="957" y="407" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="1098" y="328" />
+    <location key="SettingsEditor.0.0.1920.1080" x="415" y="30" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="663" y="6" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="802" y="397" />
+    <location key="new project wizard.0.0.1920.1080" x="524" y="16" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="400" y="-2" />
+    <location key="search.everywhere.popup.0.0.1920.1080" x="143" y="220" />
+    <location key="#Notifications.0.0.1920.1080" x="1033" y="162" />
+    <location key="Maven.ArtifactSearchDialog.0.0.1920.1080" x="3" y="78" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" x="969" y="149" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="1057" y="408" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="1204" y="118" />
+    <location key="#File_and_Code_Templates.0.0.1920.1080" x="1033" y="162" />
+    <location key="export.test.results.0.0.1920.1080" x="1017" y="279" />
+    <location key="run.anything.popup.0.0.1920.1080" x="1009" y="242" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="665" y="-2" />
+    <location key="SettingsEditor.0.0.1280.1024" x="235" y="69" />
+    <location key="new project wizard.0.0.1280.1024" x="262" y="83" />
+    <location key="FileChooserDialogImpl.0.0.1280.1024" x="401" y="156" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.1024" x="446" y="191" />
+    <location key="DetectedRootsChooserDialog.0.0.1920.1080" x="713" y="205" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" x="1171" y="378" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="622" y="154" />
+    <location key="find.popup.0.0.1920.1080" x="517" y="99" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="498" height="476" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1046" height="800" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1868" height="273" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1868" height="273" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1868" height="273" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1868" height="273" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" width="545" height="569" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" width="311" height="206" />
+    <size key="new project wizard.0.0.1920.1080" width="851" height="808" />
+    <size key="search.everywhere.popup.0.0.1920.1080" width="672" height="678" />
+    <size key="#Notifications.0.0.1920.1080" width="804" height="669" />
+    <size key="Maven.ArtifactSearchDialog.0.0.1920.1080" width="928" height="676" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1868" height="280" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1868" height="280" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1868" height="280" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1868" height="280" />
+    <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" width="789" height="694" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" width="544" height="180" />
+    <size key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" width="456" height="596" />
+    <size key="#File_and_Code_Templates.0.0.1920.1080" width="804" height="669" />
+    <size key="export.test.results.0.0.1920.1080" width="443" height="354" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" width="528" height="476" />
+    <size key="SettingsEditor.0.0.1280.1024" width="861" height="687" />
+    <size key="new project wizard.0.0.1280.1024" width="746" height="771" />
+    <size key="GridCell.Tab.0.left.0.0.1280.1024" width="1228" height="251" />
+    <size key="GridCell.Tab.0.center.0.0.1280.1024" width="1228" height="251" />
+    <size key="GridCell.Tab.0.right.0.0.1280.1024" width="1228" height="251" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.1024" width="1228" height="251" />
+    <size key="FileChooserDialogImpl.0.0.1280.1024" width="460" height="544" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1280.1024" width="378" height="554" />
+    <size key="DetectedRootsChooserDialog.0.0.1920.1080" width="484" height="582" />
+    <size key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" width="528" height="237" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" width="666" height="685" />
+    <size key="find.popup.0.0.1920.1080" width="886" height="843" />
+  </component>
+</application>

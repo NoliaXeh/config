@@ -1,0 +1,3 @@
+cat .config/i3
+cat .config/i3/config 
+python

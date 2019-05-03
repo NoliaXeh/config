@@ -1,0 +1,75 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="login_l-creeps">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.epita</groupId>
+            <artifactId>thibault.marchal-creeps</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <directory>/home/thibault.marchal/afs/repos/rush_java</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogdGhpYmF1bHQubWFyY2hhbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxMC4wLjINCg0K</manifest>
+        <classpath>given-2.0-SNAPSHOT.jar slf4j-api-1.7.25.jar logback-classic-1.2.3.jar logback-core-1.2.3.jar jackson-databind-2.9.7.jar jackson-annotations-2.9.0.jar jackson-core-2.9.7.jar unirest-java-1.4.9.jar httpclient-4.5.2.jar httpcore-4.4.4.jar commons-logging-1.2.jar commons-codec-1.9.jar httpasyncclient-4.1.1.jar httpcore-nio-4.4.4.jar httpmime-4.5.2.jar json-20160212.jar validation-api-2.0.1.Final.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="thibault.marchal-creeps" />
+          <entry key="build.directory" value="/home/thibault.marchal/afs/repos/rush_java/target" />
+          <entry key="build.finalName" value="thibault.marchal-creeps-1.0.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="/home/thibault.marchal/afs/repos/rush_java/target/classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="/home/thibault.marchal/afs/repos/rush_java/src/main/scripts" />
+          <entry key="build.sourceDirectory" value="/home/thibault.marchal/afs/repos/rush_java/src/main/java" />
+          <entry key="build.testOutputDirectory" value="/home/thibault.marchal/afs/repos/rush_java/target/test-classes" />
+          <entry key="build.testSourceDirectory" value="/home/thibault.marchal/afs/repos/rush_java/src/test/java" />
+          <entry key="groupId" value="com.epita" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="pomFile" value="/home/thibault.marchal/afs/repos/rush_java/pom.xml" />
+          <entry key="reporting.outputDirectory" value="/home/thibault.marchal/afs/repos/rush_java/target/site" />
+          <entry key="version" value="1.0.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="given.version" value="2.0-SNAPSHOT" />
+          <entry key="jackson.version" value="2.9.7" />
+          <entry key="java.home" value="/usr/lib/jvm/default" />
+          <entry key="java.version" value="java version &quot;10.0.2&quot;" />
+          <entry key="junit-jupiter.version" value="5.4.0-M1" />
+          <entry key="logback-classic.version" value="1.2.3" />
+          <entry key="maven.compiler.release" value="10" />
+          <entry key="maven.compiler.source" value="10" />
+          <entry key="maven.compiler.target" value="10" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="/home/thibault.marchal/.m2/repository" />
+          <entry key="slf4j-api.version" value="1.7.25" />
+          <entry key="unirest.version" value="1.4.9" />
+          <entry key="validation-api.version" value="2.0.1.Final" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>/home/thibault.marchal/afs/repos/rush_java/src/main/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>/home/thibault.marchal/afs/repos/rush_java/src/test/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

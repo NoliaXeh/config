@@ -1,0 +1,163 @@
+tree
+tree -L
+tree afs
+│       │   │   ├── multiset
+│       │   │   │   └── erase_if.html
+│       │   │   ├── negation.html
+│       │   │   ├── new_delete_resource.html
+│       │   │   ├── nonesuch.html
+│       │   │   ├── not_fn.html
+│       │   │   ├── null_memory_resource.html
+│       │   │   ├── observer_ptr
+│       │   │   │   ├── get.html
+│       │   │   │   ├── hash.html
+│       │   │   │   ├── make_observer.html
+│       │   │   │   ├── observer_ptr.html
+│       │   │   │   ├── operator_bool.html
+│       │   │   │   ├── operator_cmp.html
+│       │   │   │   ├── operator_pointer.html
+│       │   │   │   ├── operator_star_.html
+│       │   │   │   ├── release.html
+│       │   │   │   ├── reset.html
+│       │   │   │   ├── swap2.html
+│       │   │   │   └── swap.html
+│       │   │   ├── observer_ptr.html
+│       │   │   ├── optional
+│       │   │   │   ├── bad_optional_access.html
+│       │   │   │   ├── emplace.html
+│       │   │   │   ├── hash.html
+│       │   │   │   ├── in_place.html
+│       │   │   │   ├── in_place_t.html
+│       │   │   │   ├── make_optional.html
+│       │   │   │   ├── nullopt.html
+│       │   │   │   ├── nullopt_t.html
+│       │   │   │   ├── operator_bool.html
+│       │   │   │   ├── operator_cmp.html
+│       │   │   │   ├── operator=.html
+│       │   │   │   ├── operator_star_.html
+│       │   │   │   ├── ~optional.html
+│       │   │   │   ├── optional.html
+│       │   │   │   ├── swap2.html
+│       │   │   │   ├── swap.html
+│       │   │   │   ├── value.html
+│       │   │   │   └── value_or.html
+│       │   │   ├── optional.html
+│       │   │   ├── ostream_joiner
+│       │   │   │   ├── make_ostream_joiner.html
+│       │   │   │   ├── operator_arith.html
+│       │   │   │   ├── operator=.html
+│       │   │   │   ├── operator_star_.html
+│       │   │   │   └── ostream_joiner.html
+│       │   │   ├── ostream_joiner.html
+│       │   │   ├── packaged_task.html
+│       │   │   ├── parallelism
+│       │   │   │   └── existing.html
+│       │   │   ├── parallelism_2.html
+│       │   │   ├── parallelism.html
+│       │   │   ├── polymorphic_allocator
+echo '│       │   │   ├── multiset
+│       │   │   │   └── erase_if.html
+│       │   │   ├── negation.html
+│       │   │   ├── new_delete_resource.html
+│       │   │   ├── nonesuch.html
+│       │   │   ├── not_fn.html
+│       │   │   ├── null_memory_resource.html
+│       │   │   ├── observer_ptr
+│       │   │   │   ├── get.html
+│       │   │   │   ├── hash.html
+│       │   │   │   ├── make_observer.html
+│       │   │   │   ├── observer_ptr.html
+│       │   │   │   ├── operator_bool.html
+│       │   │   │   ├── operator_cmp.html
+│       │   │   │   ├── operator_pointer.html
+│       │   │   │   ├── operator_star_.html
+│       │   │   │   ├── release.html
+│       │   │   │   ├── reset.html
+│       │   │   │   ├── swap2.html
+│       │   │   │   └── swap.html
+│       │   │   ├── observer_ptr.html
+│       │   │   ├── optional
+│       │   │   │   ├── bad_optional_access.html
+│       │   │   │   ├── emplace.html
+│       │   │   │   ├── hash.html
+│       │   │   │   ├── in_place.html
+│       │   │   │   ├── in_place_t.html
+│       │   │   │   ├── make_optional.html
+│       │   │   │   ├── nullopt.html
+│       │   │   │   ├── nullopt_t.html
+│       │   │   │   ├── operator_bool.html
+│       │   │   │   ├── operator_cmp.html
+│       │   │   │   ├── operator=.html
+│       │   │   │   ├── operator_star_.html
+│       │   │   │   ├── ~optional.html
+│       │   │   │   ├── optional.html
+│       │   │   │   ├── swap2.html
+│       │   │   │   ├── swap.html
+│       │   │   │   ├── value.html
+│       │   │   │   └── value_or.html
+│       │   │   ├── optional.html
+│       │   │   ├── ostream_joiner
+│       │   │   │   ├── make_ostream_joiner.html
+│       │   │   │   ├── operator_arith.html
+│       │   │   │   ├── operator=.html
+│       │   │   │   ├── operator_star_.html
+│       │   │   │   └── ostream_joiner.html
+│       │   │   ├── ostream_joiner.html
+│       │   │   ├── packaged_task.html
+│       │   │   ├── parallelism
+│       │   │   │   └── existing.html
+│       │   │   ├── parallelism_2.html
+│       │   │   ├── parallelism.html
+│       │   │   ├── polymorphic_allocator
+' | cat -e
+find -L
+tree >> ~/afs/ateliers/java/d3_tuto/reflection/src/main/java/reflection/Reflection.java 
+tree
+tree >> ~/afs/ateliers/java/d3_tuto/reflection/src/main/java/reflection/Reflection.java 
+tree afs/ >> ~/afs/ateliers/java/d3_tuto/reflection/src/main/java/reflection/Reflection.java 
+python
+{         Game g = new Game();
+        {             g.roll(10);
+        }
+        TestCase.assertEquals(300, g.getScore());
+    }
+'{
+        Game g = new Game();
+        while (!g.isDone())
+        {
+            g.roll(10);
+        }
+        TestCase.assertEquals(300, g.getScore());
+    }'
+echo '{
+        Game g = new Game();
+        while (!g.isDone())
+        {
+            g.roll(10);
+        }
+        TestCase.assertEquals(300, g.getScore());
+    }'
+echo '{
+        Game g = new Game();
+        while (!g.isDone())
+        {
+            g.roll(10);
+        }
+        TestCase.assertEquals(300, g.getScore());
+    }'
+echo '{
+        Game g = new Game();
+        while (!g.isDone())
+        {
+            g.roll(10);
+        }
+        TestCase.assertEquals(300, g.getScore());
+    }'
+echo '{
+        Game g = new Game();
+        while (!g.isDone())
+        {
+            g.roll(10);
+        }
+        TestCase.assertEquals(300, g.getScore());
+    }'; echo -ne '\n\n\n\n\n\n\n'

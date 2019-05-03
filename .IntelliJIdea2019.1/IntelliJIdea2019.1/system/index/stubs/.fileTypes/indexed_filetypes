@@ -1,0 +1,37 @@
+1555812396960
+Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,135￿1555812396959
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1555812396948
+AspectJ￿stub:com.intellij.lang.aspectj.psi.stub.AjFileElementType,54￿1555812396937
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1555812396944
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396932
+spring.binders￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1555812396954
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,42￿1555812396949
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1555812396955
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396958
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1555812396938
+KNM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1555812396928
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1555812396939
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,49￿1555812396940
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396945
+spring.factories￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1555812396943
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1555812396929
+kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1555812396934
+Angular Metadata JSON￿binary stub builder:org.angular2.lang.metadata.MetadataJsonStubBuilder,12￿1555812396957
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396924
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1555812396933
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,346275912￿1555812396953
+FTL￿stub:com.intellij.psi.tree.IStubFileElementType,-107390017￿1555812396921
+KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1555812396927
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,-107390013￿1555812396922
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1555812396926
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396941
+SWF￿binary stub builder:com.intellij.javascript.flex.compiled.SwfFileStubBuilder,851834098￿1555812396936
+DGM File Type￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1555812396925
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396951
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396942
+CFML￿stub:com.intellij.coldFusion.model.psi.stubs.CfmlFileElementType,-107389983￿1555812396923
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,21￿1555812396956
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396931
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,851834095￿1555812396946
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1555812396930
+Angular2Html￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1555812396950

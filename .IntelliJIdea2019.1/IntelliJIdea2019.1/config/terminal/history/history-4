@@ -1,0 +1,11 @@
+cd afs
+cd .confs/
+ls
+cat install.sh 
+cd
+la
+ls
+ls Downloads/
+cp Downloads/UI.png afs/perso/
+feh Downloads/UI.png 
+pkill chromium

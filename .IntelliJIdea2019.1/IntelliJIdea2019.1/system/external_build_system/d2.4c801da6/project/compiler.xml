@@ -1,0 +1,7 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="d2" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

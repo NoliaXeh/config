@@ -1,0 +1,13 @@
+cd -
+ls
+git init
+git remote add origin git@github.com:NoliaXeh/PlumRPGMaker.git
+git pull origin master
+ssh-add ~/.ssh/my_git_key_file
+git pull origin master
+git add src/
+git pom.xml 
+git add pom.xml 
+git commit -m "[NEW] git: created git"
+git push 
+git push --set-upstream origin master

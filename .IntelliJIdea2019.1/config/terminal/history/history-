@@ -1,0 +1,13 @@
+cd afs
+cd repos/
+cd old/
+ls
+cd thibault.marchal-rush_c/
+ls
+./plum 
+vim src/hitbox.c
+vim src/hitbox.h
+ls
+tree
+tetris
+python

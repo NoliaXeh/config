@@ -1,0 +1,140 @@
+i3lock
+i3lock
+cd afs
+cd ateliers/
+cd java/
+git clone git@git.assistants.epita.fr:2021/java-d4/thibault.marchal-java-d4.git d4_subject
+cd d4_subject/
+ls
+ls
+slslsl
+tree
+cd afs
+cd ateliers/
+cd java/
+ls
+cd d4_subject/
+ls
+cd myChat/
+wc -r
+find | wc
+wc $(find)
+wc $(find) -l
+wc $(find) -w
+python
+'Java Workshop: D4 — Subject'
+version #1.4-2-g086375c
+Yet Another Kind of Assistants 2020 <yaka@tickets.assistants.epita.fr>
+Copyright
+This document is for internal use at EPITA (website) only.
+Copyright © 2018-2019 Assistants <yaka@tickets.assistants.epita.fr>
+The use of this document must abide by the following rules:
+▷ You downloaded it from the assistants’ intranet.*
+▷ This document is strictly personal and must not be passed onto someone else.
+▷ Non-compliance with these rules can lead to severe sanctions.
+Contents
+1 My Chat 2
+1.1 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1.2 Specifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1.2.1 Get started . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1.2.2 Account Manager . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1.2.3 Channel Manager . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.2.4 Message Manager . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.3 Sending GET and POST requests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.3.1 GET . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.3.2 POST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.4 Behavior of your code . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.5 Tests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+1.6 Interactive Mode . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2 Publisher subscriber 12
+2.1 Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.2 Specifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.2.1 send_themes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.2.2 put_pressure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2.3 Behavior of your code . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1 My Chat
+Files to submit:
+• myChat/src/main/java/client/AccountManager.java
+• myChat/src/main/java/client/ChannelManager.java
+• myChat/src/main/java/client/MessageManager.java
+*https://intra.assistants.epita.fr
+2
+• myChat/src/main/java/client/Tools.java
+Provided files:
+• myChat/pom.xml
+• myChat/src/main/java/server/Users.java
+• myChat/src/main/java/server/Tools.java
+• myChat/src/main/java/server/Server.java
+• myChat/src/main/java/server/ChannelOwnershipChecker.java
+• myChat/src/main/java/server/Status.java
+• myChat/src/main/java/travelers/SingleMessage.java
+• myChat/src/main/java/travelers/Action.java
+• myChat/src/main/java/travelers/MultiMessage.java
+• myChat/src/main/java/interactive/InteractiveMode.java
+• myChat/src/main/java/common/PingBody.java
+• myChat/src/main/java/common/Channel.java
+• myChat/src/main/java/common/UserInfos.java
+• myChat/src/main/java/common/PongBody.java
+• myChat/src/main/java/common/ChannelContainer.java
+• myChat/src/main/java/common/Settings.java
+• myChat/src/main/java/client/Tools.java
+• myChat/src/main/java/client/AccountManager.java
+• myChat/src/main/java/client/MessageManager.java
+• myChat/src/main/java/client/Client.java
+• myChat/src/main/java/client/ChannelManager.java
+• myChat/src/main/java/example/PingPong.java
+• myChat/src/test/java/example/TestSimple.java
+• myChat/src/test/java/example/TestPingPong.java
+Allowed import:
+• java.io.*
+• java.util.*
+• java.net.*
+• java.nio.charset.Charset
+• java.nio.charset.StandardCharsets
+• org.apache.http.*
+3
+• com.google.gson.Gson
+• com.google.common.hash.Hashing
+• com.sun.net.httpserver.*
+• org.apache.commons.io.IOUtils
+• org.junit.*
+• java.lang.reflect.Field
+1.1 Objectives
+The goal of this exercise is to make you send GET and POST requests to a server. You will do it through
+a chat client. Make sure to read the whole subject twice before starting coding.
+1.2 Specifications
+The Client you have to implement is divided in 3 parts:
+• an Account Manager
+• a Channel Manager
+• a Message Manager
+The Channel Manager requires the Account Manager to work. The Message Manager requires the Channel Manager to work.
+1.2.1 Get started
+You are strongly advised to read all the given code. You will need to use several classes that are already
+written. Have a look at Example/PingPong.java. There, you will find a good example of what you are
+supposed to do.
+1.2.2 Account Manager
+This will handle a user account and its related operations.
+package client;
+import com.google.common.hash.Hashing;
+vim sub
+wc -w sub 
+python 
+cd -
+ls
+git add src/main/java/client/Tools.java 
+git commit -m "tools: created tools for http requests"
+git add src/main/java/client/AccountManager.java 
+git commit -m "account manager: fixed account manager"
+git push
+git push
+ssh-add ~/.ssh/my_git_key_file
+git push
+git add pom.xml 
+git commit -m "pom: added"
+git push
+git add src/main/java/client/ChannelManager.java 
+git add -u
+git commit -m "channel manager: fixed"
+git push
+git tag -a 'submission-d4-yolo' -m '50%'
+git push --tags

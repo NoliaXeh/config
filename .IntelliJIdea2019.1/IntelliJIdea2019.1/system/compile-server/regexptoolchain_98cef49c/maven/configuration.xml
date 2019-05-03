@@ -1,0 +1,56 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="regexpToolchain">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.epita.assistants</groupId>
+            <artifactId>regexpToolchain</artifactId>
+            <version>1.0</version>
+          </MavenIdBean>
+        </id>
+        <directory>/home/thibault.marchal/afs/ateliers/java/d1_subject/regexpToolchain</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogdGhpYmF1bHQubWFyY2hhbA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxMS4wLjMNCg0K</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="regexpToolchain" />
+          <entry key="build.directory" value="/home/thibault.marchal/afs/ateliers/java/d1_subject/regexpToolchain/target" />
+          <entry key="build.finalName" value="regexpToolchain-1.0" />
+          <entry key="build.outputDirectory" value="/home/thibault.marchal/afs/ateliers/java/d1_subject/regexpToolchain/target/classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="/home/thibault.marchal/afs/ateliers/java/d1_subject/regexpToolchain/target/test-classes" />
+          <entry key="groupId" value="com.epita.assistants" />
+          <entry key="version" value="1.0" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="/usr/lib/jvm/java-11-openjdk" />
+          <entry key="java.version" value="java version &quot;11.0.3&quot;" />
+          <entry key="settings.localRepository" value="/home/thibault.marchal/.m2/repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>/home/thibault.marchal/afs/ateliers/java/d1_subject/regexpToolchain/src/main/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>/home/thibault.marchal/afs/ateliers/java/d1_subject/regexpToolchain/src/test/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

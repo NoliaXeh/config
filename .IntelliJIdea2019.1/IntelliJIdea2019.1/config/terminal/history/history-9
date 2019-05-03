@@ -1,0 +1,91 @@
+cd -
+grep -R
+grep -R 'get' 
+grep -R 'get' src/
+grep -R 'get' src/ -n
+grep -R 'Unirest.get' src/ -n
+java -jar creeps-voxel-2.0-SNAPSHOT.jar 
+git status
+git add -u
+git add src/
+git status
+git rm -h
+git rm --cached .idea
+git rm --cached .idea -r
+git commit -m "nexus: trying to create nexus"
+git log
+gsl
+term-size 30
+git status
+git add -u
+git commit -m "message: first try"
+git push
+git rev-parse HEAD
+git add -u
+git commit -m "message: second try"
+git rev-parse HEAD
+git add -u
+git commit -m "message: third try"
+git push
+git add -u
+git commit -m "message: forth try"
+git push
+ssh-add ~/.ssh/my_git_key_file
+git push
+git rev-parse HEAD
+git add -u
+git commit -m "message: fifth try"
+git rev-parse HEAD
+function addcomgetpush { git add -u; git commit -m "$1"; git rev-parse HEAD; git push; }
+addcomgetpush "message: sixth try"
+function addcomgetpush { git add -u > /dev/null && git commit -m "$1" > /dev/null &&  git rev-parse HEAD && git push > /dev/null; }
+ls
+tree src/
+git status
+git add src
+git status
+addcomgetpush "agents: new units"
+save
+addcomgetpush "probe: draws a pokeball"
+git status
+git add src/
+git status
+addcomgetpush "achievement: running free #1"
+addcomgetpush "achievement: running free #2"
+addcomgetpush "nexus: now pops probes"
+addcomgetpush "nexus: now pops probes"
+function addcomgetpush { git add -u > /dev/null && git commit -m "$1" > /dev/null &&  git rev-parse HEAD && git push > /dev/null 2> /dev/null; }
+addcomgetpush "nexus: now pops cannon and pylon"
+addcomgetpush "nexus: now pops cannon and pylon"
+addcomgetpush "nexus: now pops cannon and pylon"
+addcomgetpush "teleport: first try"
+addcomgetpush "teleport: first try"
+addcomgetpush "teleport: second try"
+addcomgetpush "teleport: second try"
+mvn install:install-file -Dfile=given-2.0-SNAPSHOT.jar -DgroupId=com.epita -DartifactId=given -Dversion=2.0-SNAPSHOT -Dpackaging=jar
+aklog
+. ~/.bashrc
+addcomgetpush src/ "corrected: bug when spawning units"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+addcomgetpush src/ "corrected: same bug"
+mvn -jar target/thibault.marchal-creeps-1.0.0-SNAPSHOT.jar http://rush.assistants.epita.fr 1667 thibault.marchal
+java -jar target/thibault.marchal-creeps-1.0.0-SNAPSHOT.jar http://rush.assistants.epita.fr 1667 thibault.marchal
+addcomgetpush "final: :)"
+addcomgetpush -u "final: :)"
+git ls-files
+git rm --cached -r .idea
+git commit -m 'rm: trash'
+git push
+git rev-parse HEAD
+git tag -a submission-dodo-is-comming
+git push --tag
+addcomgetpush -u "final: :) and no error"
+git tag -a submission-dodo-is-comming-sonner
+git push --tag

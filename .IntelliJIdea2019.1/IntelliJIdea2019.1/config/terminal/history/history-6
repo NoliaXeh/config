@@ -1,0 +1,34 @@
+cd afs
+cd ateliers/
+ls
+cd java/
+cd d2_subject/
+git init
+git remote add git@git.assistants.epita.fr:2021/java-d2/thibault.marchal-java-d2.git
+git remote add origin git@git.assistants.epita.fr:2021/java-d2/thibault.marchal-java-d2.git
+git pull
+git pull origin master
+git add collections/src/main/java/ExCollections.java 
+git commit -m "[NEW][COL] created file"
+git push origin master
+git pull
+git push
+git push --set-upstream origin master
+ssh-add ~/.ssh/my_git_key_file
+git pull
+git add collections/src/main/java/ExCollections.java 
+git commit -m "[ADD][FUNCTION] Added wordCounter"
+git push
+git commit -m "[ADD][FUNCTION] Added allPalindrome"
+git add -u
+git commit -m "[ADD][FUNCTION] Added allPalindrome"
+cd ..
+cd d2_subject/
+tree
+vim collections/src/main/java/ExCollections.java 
+ls
+cd myAssistantLab/
+mvn package
+java -cp target/my-assistants-lab-1.0.jar myAssistantLab.Main | cat -e
+java -cp target/maven-my-assistants-lab-1.0.jar myAssistantLab.Main | cat -e
+java -cp target/my-assistant-lab-1.0.jar myAssistantLab.Main

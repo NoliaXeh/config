@@ -1,0 +1,8 @@
+vim
+ssh-agent 
+ssh-agent --help
+man ssh-agent
+ssh-add ~/.ssh/my_git_key_file
+ssh-add ~/.ssh/my_git_key_file
+vim 
+pkill xterm
